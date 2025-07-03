@@ -1,0 +1,40 @@
+{
+  "dataset_info": {
+    "total_entries": 128219,
+    "entries_with_roots": 49968,
+    "unique_roots": 1642,
+    "enhancement_date": "2025-07-03T16:40:58.042876"
+  },
+  "semantic_categories": [
+    "divine_attributes",
+    "worship_ritual",
+    "faith_belief",
+    "family_relations",
+    "social_justice",
+    "commerce_economics",
+    "knowledge_wisdom",
+    "communication",
+    "books_revelation",
+    "creation_nature",
+    "time_temporal",
+    "natural_elements",
+    "movement_direction",
+    "emotions_states",
+    "moral_conduct"
+  ],
+  "frequency_statistics": {
+    "most_frequent_root": "Alh",
+    "most_frequent_count": 2851,
+    "hapax_legomena_count": 395,
+    "rare_roots_count": 898
+  },
+  "co_occurrence_stats": {
+    "unique_pairs": 74185,
+    "total_co_occurrences": 211298,
+    "top_pair": [
+      "Alh",
+      "qwl"
+    ],
+    "top_pair_count": 514
+  }
+}
