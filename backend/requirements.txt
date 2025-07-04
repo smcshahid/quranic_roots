@@ -1,0 +1,49 @@
+# FastAPI Backend Requirements
+# Phase 2: Backend API & Analytics Engine
+
+# Core FastAPI and web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.0.0
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Database and caching
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+asyncpg>=0.29.0  # PostgreSQL async driver
+redis>=5.0.0
+databases[postgresql]>=0.8.0
+
+# Network analysis
+networkx>=3.0
+
+# HTTP and API tools
+httpx>=0.25.0
+python-multipart>=0.0.6  # For form data
+python-jose[cryptography]>=3.3.0  # For JWT tokens
+
+# Logging and monitoring
+python-json-logger>=2.0.0
+prometheus-client>=0.19.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.6.0
+
+# Optional: Machine Learning enhancements
+# torch>=2.0.0  # Uncomment for deep learning features
+# transformers>=4.35.0  # Uncomment for NLP models
+
+# Configuration and environment
+python-dotenv>=1.0.0
+pyyaml>=6.0.0 

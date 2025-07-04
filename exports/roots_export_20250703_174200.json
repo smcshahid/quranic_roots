@@ -1,0 +1,2032 @@
+[
+  {
+    "root": "Alh",
+    "total_frequency": 2851,
+    "meccan_frequency": 1092,
+    "medinan_frequency": 1759,
+    "meccan_ratio": 0.3830235005261311,
+    "medinan_ratio": 0.6169764994738688,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اله"
+  },
+  {
+    "root": "qwl",
+    "total_frequency": 1722,
+    "meccan_frequency": 1248,
+    "medinan_frequency": 474,
+    "meccan_ratio": 0.7247386759581882,
+    "medinan_ratio": 0.2752613240418118,
+    "semantic_category": "communication",
+    "root_arabic": "قول"
+  },
+  {
+    "root": "kwn",
+    "total_frequency": 1390,
+    "meccan_frequency": 920,
+    "medinan_frequency": 470,
+    "meccan_ratio": 0.6618705035971223,
+    "medinan_ratio": 0.3381294964028777,
+    "semantic_category": "creation_nature",
+    "root_arabic": "كون"
+  },
+  {
+    "root": "rbb",
+    "total_frequency": 980,
+    "meccan_frequency": 762,
+    "medinan_frequency": 218,
+    "meccan_ratio": 0.7775510204081633,
+    "medinan_ratio": 0.2224489795918367,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ربب"
+  },
+  {
+    "root": "Amn",
+    "total_frequency": 879,
+    "meccan_frequency": 379,
+    "medinan_frequency": 500,
+    "meccan_ratio": 0.4311717861205916,
+    "medinan_ratio": 0.5688282138794084,
+    "semantic_category": "uncategorized",
+    "root_arabic": "امن"
+  },
+  {
+    "root": "Elm",
+    "total_frequency": 854,
+    "meccan_frequency": 495,
+    "medinan_frequency": 359,
+    "meccan_ratio": 0.5796252927400468,
+    "medinan_ratio": 0.4203747072599532,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "علم"
+  },
+  {
+    "root": "qwm",
+    "total_frequency": 660,
+    "meccan_frequency": 454,
+    "medinan_frequency": 206,
+    "meccan_ratio": 0.6878787878787879,
+    "medinan_ratio": 0.3121212121212121,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قوم"
+  },
+  {
+    "root": "Aty",
+    "total_frequency": 549,
+    "meccan_frequency": 339,
+    "medinan_frequency": 210,
+    "meccan_ratio": 0.6174863387978142,
+    "medinan_ratio": 0.3825136612021858,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اتي"
+  },
+  {
+    "root": "kfr",
+    "total_frequency": 525,
+    "meccan_frequency": 233,
+    "medinan_frequency": 292,
+    "meccan_ratio": 0.4438095238095238,
+    "medinan_ratio": 0.5561904761904762,
+    "semantic_category": "faith_belief",
+    "root_arabic": "كفر"
+  },
+  {
+    "root": "byn",
+    "total_frequency": 523,
+    "meccan_frequency": 304,
+    "medinan_frequency": 219,
+    "meccan_ratio": 0.5812619502868069,
+    "medinan_ratio": 0.4187380497131931,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بين"
+  },
+  {
+    "root": "$yA",
+    "total_frequency": 519,
+    "meccan_frequency": 312,
+    "medinan_frequency": 207,
+    "meccan_ratio": 0.6011560693641619,
+    "medinan_ratio": 0.3988439306358382,
+    "semantic_category": "uncategorized",
+    "root_arabic": "شيا"
+  },
+  {
+    "root": "rsl",
+    "total_frequency": 513,
+    "meccan_frequency": 276,
+    "medinan_frequency": 237,
+    "meccan_ratio": 0.5380116959064327,
+    "medinan_ratio": 0.4619883040935672,
+    "semantic_category": "uncategorized",
+    "root_arabic": "رسل"
+  },
+  {
+    "root": "ArD",
+    "total_frequency": 461,
+    "meccan_frequency": 326,
+    "medinan_frequency": 135,
+    "meccan_ratio": 0.7071583514099783,
+    "medinan_ratio": 0.2928416485900217,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ارض"
+  },
+  {
+    "root": "ywm",
+    "total_frequency": 405,
+    "meccan_frequency": 293,
+    "medinan_frequency": 112,
+    "meccan_ratio": 0.7234567901234568,
+    "medinan_ratio": 0.2765432098765432,
+    "semantic_category": "time_temporal",
+    "root_arabic": "يوم"
+  },
+  {
+    "root": "Ayy",
+    "total_frequency": 382,
+    "meccan_frequency": 289,
+    "medinan_frequency": 93,
+    "meccan_ratio": 0.756544502617801,
+    "medinan_ratio": 0.2434554973821989,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ايي"
+  },
+  {
+    "root": "smw",
+    "total_frequency": 381,
+    "meccan_frequency": 268,
+    "medinan_frequency": 113,
+    "meccan_ratio": 0.7034120734908137,
+    "medinan_ratio": 0.2965879265091863,
+    "semantic_category": "natural_elements",
+    "root_arabic": "سمو"
+  },
+  {
+    "root": "kll",
+    "total_frequency": 377,
+    "meccan_frequency": 242,
+    "medinan_frequency": 135,
+    "meccan_ratio": 0.6419098143236074,
+    "medinan_ratio": 0.3580901856763925,
+    "semantic_category": "uncategorized",
+    "root_arabic": "كلل"
+  },
+  {
+    "root": "E*b",
+    "total_frequency": 373,
+    "meccan_frequency": 232,
+    "medinan_frequency": 141,
+    "meccan_ratio": 0.6219839142091153,
+    "medinan_ratio": 0.3780160857908847,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عذب"
+  },
+  {
+    "root": "Eml",
+    "total_frequency": 360,
+    "meccan_frequency": 220,
+    "medinan_frequency": 140,
+    "meccan_ratio": 0.6111111111111112,
+    "medinan_ratio": 0.3888888888888889,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عمل"
+  },
+  {
+    "root": "jEl",
+    "total_frequency": 346,
+    "meccan_frequency": 268,
+    "medinan_frequency": 78,
+    "meccan_ratio": 0.7745664739884393,
+    "medinan_ratio": 0.2254335260115607,
+    "semantic_category": "creation_nature",
+    "root_arabic": "جعل"
+  },
+  {
+    "root": "rHm",
+    "total_frequency": 339,
+    "meccan_frequency": 226,
+    "medinan_frequency": 113,
+    "meccan_ratio": 0.6666666666666666,
+    "medinan_ratio": 0.3333333333333333,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "رحم"
+  },
+  {
+    "root": "rAy",
+    "total_frequency": 328,
+    "meccan_frequency": 242,
+    "medinan_frequency": 86,
+    "meccan_ratio": 0.7378048780487805,
+    "medinan_ratio": 0.2621951219512195,
+    "semantic_category": "uncategorized",
+    "root_arabic": "راي"
+  },
+  {
+    "root": "ktb",
+    "total_frequency": 319,
+    "meccan_frequency": 155,
+    "medinan_frequency": 164,
+    "meccan_ratio": 0.4858934169278996,
+    "medinan_ratio": 0.5141065830721003,
+    "semantic_category": "books_revelation",
+    "root_arabic": "كتب"
+  },
+  {
+    "root": "hdy",
+    "total_frequency": 316,
+    "meccan_frequency": 206,
+    "medinan_frequency": 110,
+    "meccan_ratio": 0.6518987341772152,
+    "medinan_ratio": 0.3481012658227848,
+    "semantic_category": "uncategorized",
+    "root_arabic": "هدي"
+  },
+  {
+    "root": "Zlm",
+    "total_frequency": 315,
+    "meccan_frequency": 211,
+    "medinan_frequency": 104,
+    "meccan_ratio": 0.6698412698412698,
+    "medinan_ratio": 0.3301587301587301,
+    "semantic_category": "social_justice",
+    "root_arabic": "ظلم"
+  },
+  {
+    "root": "nfs",
+    "total_frequency": 298,
+    "meccan_frequency": 163,
+    "medinan_frequency": 135,
+    "meccan_ratio": 0.5469798657718121,
+    "medinan_ratio": 0.4530201342281879,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نفس"
+  },
+  {
+    "root": "qbl",
+    "total_frequency": 294,
+    "meccan_frequency": 185,
+    "medinan_frequency": 109,
+    "meccan_ratio": 0.6292517006802721,
+    "medinan_ratio": 0.3707482993197279,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قبل"
+  },
+  {
+    "root": "nzl",
+    "total_frequency": 293,
+    "meccan_frequency": 165,
+    "medinan_frequency": 128,
+    "meccan_ratio": 0.5631399317406144,
+    "medinan_ratio": 0.4368600682593856,
+    "semantic_category": "books_revelation",
+    "root_arabic": "نزل"
+  },
+  {
+    "root": "*kr",
+    "total_frequency": 292,
+    "meccan_frequency": 216,
+    "medinan_frequency": 76,
+    "meccan_ratio": 0.7397260273972602,
+    "medinan_ratio": 0.2602739726027397,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "ذكر"
+  },
+  {
+    "root": "Hqq",
+    "total_frequency": 287,
+    "meccan_frequency": 192,
+    "medinan_frequency": 95,
+    "meccan_ratio": 0.6689895470383276,
+    "medinan_ratio": 0.3310104529616725,
+    "semantic_category": "social_justice",
+    "root_arabic": "حقق"
+  },
+  {
+    "root": "k*b",
+    "total_frequency": 282,
+    "meccan_frequency": 211,
+    "medinan_frequency": 71,
+    "meccan_ratio": 0.74822695035461,
+    "medinan_ratio": 0.25177304964539,
+    "semantic_category": "moral_conduct",
+    "root_arabic": "كذب"
+  },
+  {
+    "root": "jyA",
+    "total_frequency": 278,
+    "meccan_frequency": 208,
+    "medinan_frequency": 70,
+    "meccan_ratio": 0.7482014388489209,
+    "medinan_ratio": 0.2517985611510791,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جيا"
+  },
+  {
+    "root": "Ebd",
+    "total_frequency": 275,
+    "meccan_frequency": 227,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.8254545454545454,
+    "medinan_ratio": 0.1745454545454545,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "عبد"
+  },
+  {
+    "root": "Ax*",
+    "total_frequency": 273,
+    "meccan_frequency": 171,
+    "medinan_frequency": 102,
+    "meccan_ratio": 0.6263736263736264,
+    "medinan_ratio": 0.3736263736263736,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اخذ"
+  },
+  {
+    "root": "xlq",
+    "total_frequency": 261,
+    "meccan_frequency": 215,
+    "medinan_frequency": 46,
+    "meccan_ratio": 0.8237547892720306,
+    "medinan_ratio": 0.1762452107279693,
+    "semantic_category": "creation_nature",
+    "root_arabic": "خلق"
+  },
+  {
+    "root": "wqy",
+    "total_frequency": 258,
+    "meccan_frequency": 116,
+    "medinan_frequency": 142,
+    "meccan_ratio": 0.4496124031007752,
+    "medinan_ratio": 0.5503875968992248,
+    "semantic_category": "uncategorized",
+    "root_arabic": "وقي"
+  },
+  {
+    "root": "Axr",
+    "total_frequency": 250,
+    "meccan_frequency": 153,
+    "medinan_frequency": 97,
+    "meccan_ratio": 0.612,
+    "medinan_ratio": 0.388,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اخر"
+  },
+  {
+    "root": "Amr",
+    "total_frequency": 248,
+    "meccan_frequency": 153,
+    "medinan_frequency": 95,
+    "meccan_ratio": 0.6169354838709677,
+    "medinan_ratio": 0.3830645161290322,
+    "semantic_category": "uncategorized",
+    "root_arabic": "امر"
+  },
+  {
+    "root": "nws",
+    "total_frequency": 241,
+    "meccan_frequency": 119,
+    "medinan_frequency": 122,
+    "meccan_ratio": 0.4937759336099585,
+    "medinan_ratio": 0.5062240663900415,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نوس"
+  },
+  {
+    "root": "bEd",
+    "total_frequency": 235,
+    "meccan_frequency": 130,
+    "medinan_frequency": 105,
+    "meccan_ratio": 0.5531914893617021,
+    "medinan_ratio": 0.4468085106382978,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بعد"
+  },
+  {
+    "root": "gfr",
+    "total_frequency": 234,
+    "meccan_frequency": 99,
+    "medinan_frequency": 135,
+    "meccan_ratio": 0.4230769230769231,
+    "medinan_ratio": 0.5769230769230769,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "غفر"
+  },
+  {
+    "root": "wly",
+    "total_frequency": 232,
+    "meccan_frequency": 100,
+    "medinan_frequency": 132,
+    "meccan_ratio": 0.4310344827586206,
+    "medinan_ratio": 0.5689655172413793,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ولي"
+  },
+  {
+    "root": "dEw",
+    "total_frequency": 212,
+    "meccan_frequency": 167,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.7877358490566038,
+    "medinan_ratio": 0.2122641509433962,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "دعو"
+  },
+  {
+    "root": "Hkm",
+    "total_frequency": 210,
+    "meccan_frequency": 93,
+    "medinan_frequency": 117,
+    "meccan_ratio": 0.4428571428571428,
+    "medinan_ratio": 0.5571428571428572,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "حكم"
+  },
+  {
+    "root": "mlk",
+    "total_frequency": 206,
+    "meccan_frequency": 122,
+    "medinan_frequency": 84,
+    "meccan_ratio": 0.5922330097087378,
+    "medinan_ratio": 0.4077669902912621,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ملك"
+  },
+  {
+    "root": "End",
+    "total_frequency": 201,
+    "meccan_frequency": 109,
+    "medinan_frequency": 92,
+    "meccan_ratio": 0.5422885572139303,
+    "medinan_ratio": 0.4577114427860697,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عند"
+  },
+  {
+    "root": "jnn",
+    "total_frequency": 201,
+    "meccan_frequency": 137,
+    "medinan_frequency": 64,
+    "meccan_ratio": 0.681592039800995,
+    "medinan_ratio": 0.3184079601990049,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جنن"
+  },
+  {
+    "root": "xyr",
+    "total_frequency": 196,
+    "meccan_frequency": 103,
+    "medinan_frequency": 93,
+    "meccan_ratio": 0.5255102040816326,
+    "medinan_ratio": 0.4744897959183674,
+    "semantic_category": "uncategorized",
+    "root_arabic": "خير"
+  },
+  {
+    "root": "nwr",
+    "total_frequency": 194,
+    "meccan_frequency": 97,
+    "medinan_frequency": 97,
+    "meccan_ratio": 0.5,
+    "medinan_ratio": 0.5,
+    "semantic_category": "natural_elements",
+    "root_arabic": "نور"
+  },
+  {
+    "root": "Hsn",
+    "total_frequency": 194,
+    "meccan_frequency": 121,
+    "medinan_frequency": 73,
+    "meccan_ratio": 0.6237113402061856,
+    "medinan_ratio": 0.3762886597938144,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حسن"
+  },
+  {
+    "root": "Dll",
+    "total_frequency": 191,
+    "meccan_frequency": 141,
+    "medinan_frequency": 50,
+    "meccan_ratio": 0.7382198952879581,
+    "medinan_ratio": 0.2617801047120419,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ضلل"
+  },
+  {
+    "root": "smE",
+    "total_frequency": 185,
+    "meccan_frequency": 115,
+    "medinan_frequency": 70,
+    "meccan_ratio": 0.6216216216216216,
+    "medinan_ratio": 0.3783783783783784,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سمع"
+  },
+  {
+    "root": "Hyy",
+    "total_frequency": 184,
+    "meccan_frequency": 122,
+    "medinan_frequency": 62,
+    "meccan_ratio": 0.6630434782608695,
+    "medinan_ratio": 0.3369565217391304,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حيي"
+  },
+  {
+    "root": "bny",
+    "total_frequency": 184,
+    "meccan_frequency": 101,
+    "medinan_frequency": 83,
+    "meccan_ratio": 0.5489130434782609,
+    "medinan_ratio": 0.4510869565217391,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بني"
+  },
+  {
+    "root": "xrj",
+    "total_frequency": 182,
+    "meccan_frequency": 102,
+    "medinan_frequency": 80,
+    "meccan_ratio": 0.5604395604395604,
+    "medinan_ratio": 0.4395604395604395,
+    "semantic_category": "creation_nature",
+    "root_arabic": "خرج"
+  },
+  {
+    "root": "SlH",
+    "total_frequency": 180,
+    "meccan_frequency": 113,
+    "medinan_frequency": 67,
+    "meccan_ratio": 0.6277777777777778,
+    "medinan_ratio": 0.3722222222222222,
+    "semantic_category": "social_justice",
+    "root_arabic": "صلح"
+  },
+  {
+    "root": "sbl",
+    "total_frequency": 176,
+    "meccan_frequency": 75,
+    "medinan_frequency": 101,
+    "meccan_ratio": 0.4261363636363636,
+    "medinan_ratio": 0.5738636363636364,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سبل"
+  },
+  {
+    "root": "tbE",
+    "total_frequency": 172,
+    "meccan_frequency": 112,
+    "medinan_frequency": 60,
+    "meccan_ratio": 0.6511627906976745,
+    "medinan_ratio": 0.3488372093023256,
+    "semantic_category": "uncategorized",
+    "root_arabic": "تبع"
+  },
+  {
+    "root": "Awl",
+    "total_frequency": 170,
+    "meccan_frequency": 118,
+    "medinan_frequency": 52,
+    "meccan_ratio": 0.6941176470588235,
+    "medinan_ratio": 0.3058823529411765,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اول"
+  },
+  {
+    "root": "qtl",
+    "total_frequency": 170,
+    "meccan_frequency": 37,
+    "medinan_frequency": 133,
+    "meccan_ratio": 0.2176470588235294,
+    "medinan_ratio": 0.7823529411764706,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قتل"
+  },
+  {
+    "root": "mvl",
+    "total_frequency": 169,
+    "meccan_frequency": 103,
+    "medinan_frequency": 66,
+    "meccan_ratio": 0.6094674556213018,
+    "medinan_ratio": 0.3905325443786982,
+    "semantic_category": "uncategorized",
+    "root_arabic": "مثل"
+  },
+  {
+    "root": "qlb",
+    "total_frequency": 168,
+    "meccan_frequency": 58,
+    "medinan_frequency": 110,
+    "meccan_ratio": 0.3452380952380952,
+    "medinan_ratio": 0.6547619047619048,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قلب"
+  },
+  {
+    "root": "$rk",
+    "total_frequency": 168,
+    "meccan_frequency": 117,
+    "medinan_frequency": 51,
+    "meccan_ratio": 0.6964285714285714,
+    "medinan_ratio": 0.3035714285714285,
+    "semantic_category": "faith_belief",
+    "root_arabic": "شرك"
+  },
+  {
+    "root": "swA",
+    "total_frequency": 167,
+    "meccan_frequency": 111,
+    "medinan_frequency": 56,
+    "meccan_ratio": 0.6646706586826348,
+    "medinan_ratio": 0.3353293413173652,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سوا"
+  },
+  {
+    "root": "kvr",
+    "total_frequency": 167,
+    "meccan_frequency": 103,
+    "medinan_frequency": 64,
+    "meccan_ratio": 0.6167664670658682,
+    "medinan_ratio": 0.3832335329341317,
+    "semantic_category": "uncategorized",
+    "root_arabic": "كثر"
+  },
+  {
+    "root": "mwt",
+    "total_frequency": 165,
+    "meccan_frequency": 99,
+    "medinan_frequency": 66,
+    "meccan_ratio": 0.6,
+    "medinan_ratio": 0.4,
+    "semantic_category": "uncategorized",
+    "root_arabic": "موت"
+  },
+  {
+    "root": "kbr",
+    "total_frequency": 161,
+    "meccan_frequency": 123,
+    "medinan_frequency": 38,
+    "meccan_ratio": 0.7639751552795031,
+    "medinan_ratio": 0.2360248447204969,
+    "semantic_category": "uncategorized",
+    "root_arabic": "كبر"
+  },
+  {
+    "root": "$hd",
+    "total_frequency": 160,
+    "meccan_frequency": 72,
+    "medinan_frequency": 88,
+    "meccan_ratio": 0.45,
+    "medinan_ratio": 0.55,
+    "semantic_category": "uncategorized",
+    "root_arabic": "شهد"
+  },
+  {
+    "root": "nbA",
+    "total_frequency": 160,
+    "meccan_frequency": 71,
+    "medinan_frequency": 89,
+    "meccan_ratio": 0.44375,
+    "medinan_ratio": 0.55625,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نبا"
+  },
+  {
+    "root": "nSr",
+    "total_frequency": 158,
+    "meccan_frequency": 66,
+    "medinan_frequency": 92,
+    "meccan_ratio": 0.4177215189873418,
+    "medinan_ratio": 0.5822784810126582,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نصر"
+  },
+  {
+    "root": "bED",
+    "total_frequency": 158,
+    "meccan_frequency": 77,
+    "medinan_frequency": 81,
+    "meccan_ratio": 0.4873417721518987,
+    "medinan_ratio": 0.5126582278481012,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بعض"
+  },
+  {
+    "root": "Sdq",
+    "total_frequency": 155,
+    "meccan_frequency": 79,
+    "medinan_frequency": 76,
+    "meccan_ratio": 0.5096774193548387,
+    "medinan_ratio": 0.4903225806451612,
+    "semantic_category": "moral_conduct",
+    "root_arabic": "صدق"
+  },
+  {
+    "root": "gyr",
+    "total_frequency": 154,
+    "meccan_frequency": 94,
+    "medinan_frequency": 60,
+    "meccan_ratio": 0.6103896103896104,
+    "medinan_ratio": 0.3896103896103896,
+    "semantic_category": "uncategorized",
+    "root_arabic": "غير"
+  },
+  {
+    "root": "wEd",
+    "total_frequency": 151,
+    "meccan_frequency": 116,
+    "medinan_frequency": 35,
+    "meccan_ratio": 0.7682119205298014,
+    "medinan_ratio": 0.2317880794701986,
+    "semantic_category": "uncategorized",
+    "root_arabic": "وعد"
+  },
+  {
+    "root": "bSr",
+    "total_frequency": 148,
+    "meccan_frequency": 109,
+    "medinan_frequency": 39,
+    "meccan_ratio": 0.7364864864864865,
+    "medinan_ratio": 0.2635135135135135,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بصر"
+  },
+  {
+    "root": "rwd",
+    "total_frequency": 148,
+    "meccan_frequency": 78,
+    "medinan_frequency": 70,
+    "meccan_ratio": 0.527027027027027,
+    "medinan_ratio": 0.4729729729729729,
+    "semantic_category": "uncategorized",
+    "root_arabic": "رود"
+  },
+  {
+    "root": "lqy",
+    "total_frequency": 146,
+    "meccan_frequency": 110,
+    "medinan_frequency": 36,
+    "meccan_ratio": 0.7534246575342466,
+    "medinan_ratio": 0.2465753424657534,
+    "semantic_category": "uncategorized",
+    "root_arabic": "لقي"
+  },
+  {
+    "root": "dwn",
+    "total_frequency": 144,
+    "meccan_frequency": 109,
+    "medinan_frequency": 35,
+    "meccan_ratio": 0.7569444444444444,
+    "medinan_ratio": 0.2430555555555555,
+    "semantic_category": "uncategorized",
+    "root_arabic": "دون"
+  },
+  {
+    "root": "nEm",
+    "total_frequency": 140,
+    "meccan_frequency": 90,
+    "medinan_frequency": 50,
+    "meccan_ratio": 0.6428571428571429,
+    "medinan_ratio": 0.3571428571428571,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نعم"
+  },
+  {
+    "root": "slm",
+    "total_frequency": 140,
+    "meccan_frequency": 83,
+    "medinan_frequency": 57,
+    "meccan_ratio": 0.5928571428571429,
+    "medinan_ratio": 0.4071428571428571,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سلم"
+  },
+  {
+    "root": "dnw",
+    "total_frequency": 133,
+    "meccan_frequency": 72,
+    "medinan_frequency": 61,
+    "meccan_ratio": 0.5413533834586466,
+    "medinan_ratio": 0.4586466165413533,
+    "semantic_category": "uncategorized",
+    "root_arabic": "دنو"
+  },
+  {
+    "root": "qdr",
+    "total_frequency": 132,
+    "meccan_frequency": 86,
+    "medinan_frequency": 46,
+    "meccan_ratio": 0.6515151515151515,
+    "medinan_ratio": 0.3484848484848485,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "قدر"
+  },
+  {
+    "root": "n*r",
+    "total_frequency": 130,
+    "meccan_frequency": 113,
+    "medinan_frequency": 17,
+    "meccan_ratio": 0.8692307692307693,
+    "medinan_ratio": 0.1307692307692307,
+    "semantic_category": "communication",
+    "root_arabic": "نذر"
+  },
+  {
+    "root": "nZr",
+    "total_frequency": 129,
+    "meccan_frequency": 99,
+    "medinan_frequency": 30,
+    "meccan_ratio": 0.7674418604651163,
+    "medinan_ratio": 0.2325581395348837,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نظر"
+  },
+  {
+    "root": "jmE",
+    "total_frequency": 129,
+    "meccan_frequency": 84,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.6511627906976745,
+    "medinan_ratio": 0.3488372093023256,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جمع"
+  },
+  {
+    "root": "TwE",
+    "total_frequency": 129,
+    "meccan_frequency": 56,
+    "medinan_frequency": 73,
+    "meccan_ratio": 0.4341085271317829,
+    "medinan_ratio": 0.5658914728682171,
+    "semantic_category": "uncategorized",
+    "root_arabic": "طوع"
+  },
+  {
+    "root": "sAl",
+    "total_frequency": 129,
+    "meccan_frequency": 89,
+    "medinan_frequency": 40,
+    "meccan_ratio": 0.689922480620155,
+    "medinan_ratio": 0.3100775193798449,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سال"
+  },
+  {
+    "root": "EZm",
+    "total_frequency": 128,
+    "meccan_frequency": 60,
+    "medinan_frequency": 68,
+    "meccan_ratio": 0.46875,
+    "medinan_ratio": 0.53125,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عظم"
+  },
+  {
+    "root": "Ahl",
+    "total_frequency": 127,
+    "meccan_frequency": 74,
+    "medinan_frequency": 53,
+    "meccan_ratio": 0.5826771653543307,
+    "medinan_ratio": 0.4173228346456692,
+    "semantic_category": "family_relations",
+    "root_arabic": "اهل"
+  },
+  {
+    "root": "xlf",
+    "total_frequency": 127,
+    "meccan_frequency": 82,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.6456692913385826,
+    "medinan_ratio": 0.3543307086614173,
+    "semantic_category": "uncategorized",
+    "root_arabic": "خلف"
+  },
+  {
+    "root": "dxl",
+    "total_frequency": 126,
+    "meccan_frequency": 61,
+    "medinan_frequency": 65,
+    "meccan_ratio": 0.4841269841269841,
+    "medinan_ratio": 0.5158730158730159,
+    "semantic_category": "movement_direction",
+    "root_arabic": "دخل"
+  },
+  {
+    "root": "xwf",
+    "total_frequency": 124,
+    "meccan_frequency": 77,
+    "medinan_frequency": 47,
+    "meccan_ratio": 0.6209677419354839,
+    "medinan_ratio": 0.3790322580645161,
+    "semantic_category": "emotions_states",
+    "root_arabic": "خوف"
+  },
+  {
+    "root": "b$r",
+    "total_frequency": 123,
+    "meccan_frequency": 86,
+    "medinan_frequency": 37,
+    "meccan_ratio": 0.6991869918699187,
+    "medinan_ratio": 0.3008130081300813,
+    "semantic_category": "communication",
+    "root_arabic": "بشر"
+  },
+  {
+    "root": "rzq",
+    "total_frequency": 123,
+    "meccan_frequency": 80,
+    "medinan_frequency": 43,
+    "meccan_ratio": 0.6504065040650406,
+    "medinan_ratio": 0.3495934959349593,
+    "semantic_category": "uncategorized",
+    "root_arabic": "رزق"
+  },
+  {
+    "root": "ydy",
+    "total_frequency": 120,
+    "meccan_frequency": 59,
+    "medinan_frequency": 61,
+    "meccan_ratio": 0.4916666666666666,
+    "medinan_ratio": 0.5083333333333333,
+    "semantic_category": "uncategorized",
+    "root_arabic": "يدي"
+  },
+  {
+    "root": "Amm",
+    "total_frequency": 119,
+    "meccan_frequency": 82,
+    "medinan_frequency": 37,
+    "meccan_ratio": 0.6890756302521008,
+    "medinan_ratio": 0.3109243697478991,
+    "semantic_category": "uncategorized",
+    "root_arabic": "امم"
+  },
+  {
+    "root": "Ezz",
+    "total_frequency": 119,
+    "meccan_frequency": 71,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.5966386554621849,
+    "medinan_ratio": 0.4033613445378151,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "عزز"
+  },
+  {
+    "root": "jzy",
+    "total_frequency": 118,
+    "meccan_frequency": 89,
+    "medinan_frequency": 29,
+    "meccan_ratio": 0.7542372881355932,
+    "medinan_ratio": 0.2457627118644068,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جزي"
+  },
+  {
+    "root": "Abw",
+    "total_frequency": 117,
+    "meccan_frequency": 93,
+    "medinan_frequency": 24,
+    "meccan_ratio": 0.7948717948717948,
+    "medinan_ratio": 0.2051282051282051,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ابو"
+  },
+  {
+    "root": "nhr",
+    "total_frequency": 113,
+    "meccan_frequency": 65,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.5752212389380531,
+    "medinan_ratio": 0.4247787610619469,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نهر"
+  },
+  {
+    "root": "nfq",
+    "total_frequency": 111,
+    "meccan_frequency": 13,
+    "medinan_frequency": 98,
+    "meccan_ratio": 0.1171171171171171,
+    "medinan_ratio": 0.8828828828828829,
+    "semantic_category": "commerce_economics",
+    "root_arabic": "نفق"
+  },
+  {
+    "root": "Hsb",
+    "total_frequency": 109,
+    "meccan_frequency": 54,
+    "medinan_frequency": 55,
+    "meccan_ratio": 0.4954128440366973,
+    "medinan_ratio": 0.5045871559633027,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حسب"
+  },
+  {
+    "root": "Akl",
+    "total_frequency": 109,
+    "meccan_frequency": 66,
+    "medinan_frequency": 43,
+    "meccan_ratio": 0.6055045871559633,
+    "medinan_ratio": 0.3944954128440367,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اكل"
+  },
+  {
+    "root": "fEl",
+    "total_frequency": 108,
+    "meccan_frequency": 63,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.5833333333333334,
+    "medinan_ratio": 0.4166666666666667,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فعل"
+  },
+  {
+    "root": "Ajr",
+    "total_frequency": 108,
+    "meccan_frequency": 60,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.5555555555555556,
+    "medinan_ratio": 0.4444444444444444,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اجر"
+  },
+  {
+    "root": "wjd",
+    "total_frequency": 107,
+    "meccan_frequency": 59,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.5514018691588785,
+    "medinan_ratio": 0.4485981308411215,
+    "semantic_category": "creation_nature",
+    "root_arabic": "وجد"
+  },
+  {
+    "root": "Edw",
+    "total_frequency": 106,
+    "meccan_frequency": 47,
+    "medinan_frequency": 59,
+    "meccan_ratio": 0.4433962264150943,
+    "medinan_ratio": 0.5566037735849056,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عدو"
+  },
+  {
+    "root": "rjE",
+    "total_frequency": 104,
+    "meccan_frequency": 76,
+    "medinan_frequency": 28,
+    "meccan_ratio": 0.7307692307692307,
+    "medinan_ratio": 0.2692307692307692,
+    "semantic_category": "movement_direction",
+    "root_arabic": "رجع"
+  },
+  {
+    "root": "fDl",
+    "total_frequency": 104,
+    "meccan_frequency": 42,
+    "medinan_frequency": 62,
+    "meccan_ratio": 0.4038461538461538,
+    "medinan_ratio": 0.5961538461538461,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فضل"
+  },
+  {
+    "root": "Sbr",
+    "total_frequency": 103,
+    "meccan_frequency": 71,
+    "medinan_frequency": 32,
+    "meccan_ratio": 0.6893203883495146,
+    "medinan_ratio": 0.3106796116504854,
+    "semantic_category": "movement_direction",
+    "root_arabic": "صبر"
+  },
+  {
+    "root": "$dd",
+    "total_frequency": 102,
+    "meccan_frequency": 57,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.5588235294117647,
+    "medinan_ratio": 0.4411764705882353,
+    "semantic_category": "uncategorized",
+    "root_arabic": "شدد"
+  },
+  {
+    "root": "A*n",
+    "total_frequency": 102,
+    "meccan_frequency": 46,
+    "medinan_frequency": 56,
+    "meccan_ratio": 0.4509803921568627,
+    "medinan_ratio": 0.5490196078431373,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اذن"
+  },
+  {
+    "root": "wld",
+    "total_frequency": 102,
+    "meccan_frequency": 55,
+    "medinan_frequency": 47,
+    "meccan_ratio": 0.5392156862745098,
+    "medinan_ratio": 0.4607843137254901,
+    "semantic_category": "family_relations",
+    "root_arabic": "ولد"
+  },
+  {
+    "root": "dyn",
+    "total_frequency": 101,
+    "meccan_frequency": 49,
+    "medinan_frequency": 52,
+    "meccan_ratio": 0.4851485148514851,
+    "medinan_ratio": 0.5148514851485149,
+    "semantic_category": "commerce_economics",
+    "root_arabic": "دين"
+  },
+  {
+    "root": "Slw",
+    "total_frequency": 99,
+    "meccan_frequency": 40,
+    "medinan_frequency": 59,
+    "meccan_ratio": 0.404040404040404,
+    "medinan_ratio": 0.5959595959595959,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "صلو"
+  },
+  {
+    "root": "SHb",
+    "total_frequency": 97,
+    "meccan_frequency": 71,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.7319587628865979,
+    "medinan_ratio": 0.268041237113402,
+    "semantic_category": "uncategorized",
+    "root_arabic": "صحب"
+  },
+  {
+    "root": "Ans",
+    "total_frequency": 97,
+    "meccan_frequency": 80,
+    "medinan_frequency": 17,
+    "meccan_ratio": 0.8247422680412371,
+    "medinan_ratio": 0.1752577319587628,
+    "semantic_category": "uncategorized",
+    "root_arabic": "انس"
+  },
+  {
+    "root": "bgy",
+    "total_frequency": 96,
+    "meccan_frequency": 55,
+    "medinan_frequency": 41,
+    "meccan_ratio": 0.5729166666666666,
+    "medinan_ratio": 0.4270833333333333,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بغي"
+  },
+  {
+    "root": "Axw",
+    "total_frequency": 96,
+    "meccan_frequency": 58,
+    "medinan_frequency": 38,
+    "meccan_ratio": 0.6041666666666666,
+    "medinan_ratio": 0.3958333333333333,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اخو"
+  },
+  {
+    "root": "qrb",
+    "total_frequency": 96,
+    "meccan_frequency": 50,
+    "medinan_frequency": 46,
+    "meccan_ratio": 0.5208333333333334,
+    "medinan_ratio": 0.4791666666666667,
+    "semantic_category": "family_relations",
+    "root_arabic": "قرب"
+  },
+  {
+    "root": "Hbb",
+    "total_frequency": 95,
+    "meccan_frequency": 34,
+    "medinan_frequency": 61,
+    "meccan_ratio": 0.3578947368421052,
+    "medinan_ratio": 0.6421052631578947,
+    "semantic_category": "emotions_states",
+    "root_arabic": "حبب"
+  },
+  {
+    "root": "sbH",
+    "total_frequency": 92,
+    "meccan_frequency": 68,
+    "medinan_frequency": 24,
+    "meccan_ratio": 0.7391304347826086,
+    "medinan_ratio": 0.2608695652173913,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "سبح"
+  },
+  {
+    "root": "lyl",
+    "total_frequency": 92,
+    "meccan_frequency": 74,
+    "medinan_frequency": 18,
+    "meccan_ratio": 0.8043478260869565,
+    "medinan_ratio": 0.1956521739130435,
+    "semantic_category": "time_temporal",
+    "root_arabic": "ليل"
+  },
+  {
+    "root": "sjd",
+    "total_frequency": 92,
+    "meccan_frequency": 54,
+    "medinan_frequency": 38,
+    "meccan_ratio": 0.5869565217391305,
+    "medinan_ratio": 0.4130434782608695,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "سجد"
+  },
+  {
+    "root": "lys",
+    "total_frequency": 89,
+    "meccan_frequency": 48,
+    "medinan_frequency": 41,
+    "meccan_ratio": 0.5393258426966292,
+    "medinan_ratio": 0.4606741573033708,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ليس"
+  },
+  {
+    "root": "$Tn",
+    "total_frequency": 88,
+    "meccan_frequency": 53,
+    "medinan_frequency": 35,
+    "meccan_ratio": 0.6022727272727273,
+    "medinan_ratio": 0.3977272727272727,
+    "semantic_category": "uncategorized",
+    "root_arabic": "شطن"
+  },
+  {
+    "root": "qrA",
+    "total_frequency": 88,
+    "meccan_frequency": 78,
+    "medinan_frequency": 10,
+    "meccan_ratio": 0.8863636363636364,
+    "medinan_ratio": 0.1136363636363636,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قرا"
+  },
+  {
+    "root": "xld",
+    "total_frequency": 87,
+    "meccan_frequency": 43,
+    "medinan_frequency": 44,
+    "meccan_ratio": 0.4942528735632184,
+    "medinan_ratio": 0.5057471264367817,
+    "semantic_category": "uncategorized",
+    "root_arabic": "خلد"
+  },
+  {
+    "root": "twb",
+    "total_frequency": 87,
+    "meccan_frequency": 23,
+    "medinan_frequency": 64,
+    "meccan_ratio": 0.264367816091954,
+    "medinan_ratio": 0.735632183908046,
+    "semantic_category": "uncategorized",
+    "root_arabic": "توب"
+  },
+  {
+    "root": "mwl",
+    "total_frequency": 86,
+    "meccan_frequency": 32,
+    "medinan_frequency": 54,
+    "meccan_ratio": 0.3720930232558139,
+    "medinan_ratio": 0.627906976744186,
+    "semantic_category": "uncategorized",
+    "root_arabic": "مول"
+  },
+  {
+    "root": "AHd",
+    "total_frequency": 85,
+    "meccan_frequency": 47,
+    "medinan_frequency": 38,
+    "meccan_ratio": 0.5529411764705883,
+    "medinan_ratio": 0.4470588235294118,
+    "semantic_category": "uncategorized",
+    "root_arabic": "احد"
+  },
+  {
+    "root": "njw",
+    "total_frequency": 84,
+    "meccan_frequency": 67,
+    "medinan_frequency": 17,
+    "meccan_ratio": 0.7976190476190477,
+    "medinan_ratio": 0.2023809523809523,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نجو"
+  },
+  {
+    "root": "Hrm",
+    "total_frequency": 83,
+    "meccan_frequency": 35,
+    "medinan_frequency": 48,
+    "meccan_ratio": 0.4216867469879518,
+    "medinan_ratio": 0.5783132530120482,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حرم"
+  },
+  {
+    "root": "swy",
+    "total_frequency": 83,
+    "meccan_frequency": 57,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.6867469879518072,
+    "medinan_ratio": 0.3132530120481928,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سوي"
+  },
+  {
+    "root": "kyf",
+    "total_frequency": 83,
+    "meccan_frequency": 61,
+    "medinan_frequency": 22,
+    "meccan_ratio": 0.7349397590361446,
+    "medinan_ratio": 0.2650602409638554,
+    "semantic_category": "uncategorized",
+    "root_arabic": "كيف"
+  },
+  {
+    "root": "zwj",
+    "total_frequency": 81,
+    "meccan_frequency": 42,
+    "medinan_frequency": 39,
+    "meccan_ratio": 0.5185185185185185,
+    "medinan_ratio": 0.4814814814814814,
+    "semantic_category": "family_relations",
+    "root_arabic": "زوج"
+  },
+  {
+    "root": "Eqb",
+    "total_frequency": 80,
+    "meccan_frequency": 46,
+    "medinan_frequency": 34,
+    "meccan_ratio": 0.575,
+    "medinan_ratio": 0.425,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عقب"
+  },
+  {
+    "root": "ErD",
+    "total_frequency": 79,
+    "meccan_frequency": 53,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.6708860759493671,
+    "medinan_ratio": 0.3291139240506329,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عرض"
+  },
+  {
+    "root": "wHy",
+    "total_frequency": 78,
+    "meccan_frequency": 69,
+    "medinan_frequency": 9,
+    "meccan_ratio": 0.8846153846153846,
+    "medinan_ratio": 0.1153846153846153,
+    "semantic_category": "books_revelation",
+    "root_arabic": "وحي"
+  },
+  {
+    "root": "wjh",
+    "total_frequency": 78,
+    "meccan_frequency": 44,
+    "medinan_frequency": 34,
+    "meccan_ratio": 0.5641025641025641,
+    "medinan_ratio": 0.4358974358974359,
+    "semantic_category": "uncategorized",
+    "root_arabic": "وجه"
+  },
+  {
+    "root": "Swb",
+    "total_frequency": 77,
+    "meccan_frequency": 25,
+    "medinan_frequency": 52,
+    "meccan_ratio": 0.3246753246753247,
+    "medinan_ratio": 0.6753246753246753,
+    "semantic_category": "uncategorized",
+    "root_arabic": "صوب"
+  },
+  {
+    "root": "blg",
+    "total_frequency": 77,
+    "meccan_frequency": 49,
+    "medinan_frequency": 28,
+    "meccan_ratio": 0.6363636363636364,
+    "medinan_ratio": 0.3636363636363636,
+    "semantic_category": "communication",
+    "root_arabic": "بلغ"
+  },
+  {
+    "root": "qll",
+    "total_frequency": 76,
+    "meccan_frequency": 42,
+    "medinan_frequency": 34,
+    "meccan_ratio": 0.5526315789473685,
+    "medinan_ratio": 0.4473684210526316,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قلل"
+  },
+  {
+    "root": "Alm",
+    "total_frequency": 75,
+    "meccan_frequency": 36,
+    "medinan_frequency": 39,
+    "meccan_ratio": 0.48,
+    "medinan_ratio": 0.52,
+    "semantic_category": "uncategorized",
+    "root_arabic": "الم"
+  },
+  {
+    "root": "$kr",
+    "total_frequency": 75,
+    "meccan_frequency": 55,
+    "medinan_frequency": 20,
+    "meccan_ratio": 0.7333333333333333,
+    "medinan_ratio": 0.2666666666666666,
+    "semantic_category": "moral_conduct",
+    "root_arabic": "شكر"
+  },
+  {
+    "root": "klm",
+    "total_frequency": 75,
+    "meccan_frequency": 46,
+    "medinan_frequency": 29,
+    "meccan_ratio": 0.6133333333333333,
+    "medinan_ratio": 0.3866666666666666,
+    "semantic_category": "communication",
+    "root_arabic": "كلم"
+  },
+  {
+    "root": "Drr",
+    "total_frequency": 74,
+    "meccan_frequency": 43,
+    "medinan_frequency": 31,
+    "meccan_ratio": 0.581081081081081,
+    "medinan_ratio": 0.4189189189189189,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ضرر"
+  },
+  {
+    "root": "bAs",
+    "total_frequency": 73,
+    "meccan_frequency": 36,
+    "medinan_frequency": 37,
+    "meccan_ratio": 0.4931506849315068,
+    "medinan_ratio": 0.5068493150684932,
+    "semantic_category": "uncategorized",
+    "root_arabic": "باس"
+  },
+  {
+    "root": "rDw",
+    "total_frequency": 73,
+    "meccan_frequency": 21,
+    "medinan_frequency": 52,
+    "meccan_ratio": 0.2876712328767123,
+    "medinan_ratio": 0.7123287671232876,
+    "semantic_category": "emotions_states",
+    "root_arabic": "رضو"
+  },
+  {
+    "root": "byt",
+    "total_frequency": 73,
+    "meccan_frequency": 28,
+    "medinan_frequency": 45,
+    "meccan_ratio": 0.3835616438356164,
+    "medinan_ratio": 0.6164383561643836,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بيت"
+  },
+  {
+    "root": "gny",
+    "total_frequency": 73,
+    "meccan_frequency": 46,
+    "medinan_frequency": 27,
+    "meccan_ratio": 0.6301369863013698,
+    "medinan_ratio": 0.3698630136986301,
+    "semantic_category": "uncategorized",
+    "root_arabic": "غني"
+  },
+  {
+    "root": "rjl",
+    "total_frequency": 73,
+    "meccan_frequency": 44,
+    "medinan_frequency": 29,
+    "meccan_ratio": 0.6027397260273972,
+    "medinan_ratio": 0.3972602739726027,
+    "semantic_category": "uncategorized",
+    "root_arabic": "رجل"
+  },
+  {
+    "root": "frq",
+    "total_frequency": 72,
+    "meccan_frequency": 30,
+    "medinan_frequency": 42,
+    "meccan_ratio": 0.4166666666666667,
+    "medinan_ratio": 0.5833333333333334,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فرق"
+  },
+  {
+    "root": "ymn",
+    "total_frequency": 71,
+    "meccan_frequency": 40,
+    "medinan_frequency": 31,
+    "meccan_ratio": 0.5633802816901409,
+    "medinan_ratio": 0.4366197183098591,
+    "semantic_category": "uncategorized",
+    "root_arabic": "يمن"
+  },
+  {
+    "root": "Erf",
+    "total_frequency": 70,
+    "meccan_frequency": 20,
+    "medinan_frequency": 50,
+    "meccan_ratio": 0.2857142857142857,
+    "medinan_ratio": 0.7142857142857143,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عرف"
+  },
+  {
+    "root": "wkl",
+    "total_frequency": 70,
+    "meccan_frequency": 44,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.6285714285714286,
+    "medinan_ratio": 0.3714285714285714,
+    "semantic_category": "uncategorized",
+    "root_arabic": "وكل"
+  },
+  {
+    "root": "Elw",
+    "total_frequency": 70,
+    "meccan_frequency": 55,
+    "medinan_frequency": 15,
+    "meccan_ratio": 0.7857142857142857,
+    "medinan_ratio": 0.2142857142857142,
+    "semantic_category": "uncategorized",
+    "root_arabic": "علو"
+  },
+  {
+    "root": "mtE",
+    "total_frequency": 70,
+    "meccan_frequency": 43,
+    "medinan_frequency": 27,
+    "meccan_ratio": 0.6142857142857143,
+    "medinan_ratio": 0.3857142857142857,
+    "semantic_category": "uncategorized",
+    "root_arabic": "متع"
+  },
+  {
+    "root": "Znn",
+    "total_frequency": 69,
+    "meccan_frequency": 48,
+    "medinan_frequency": 21,
+    "meccan_ratio": 0.6956521739130435,
+    "medinan_ratio": 0.3043478260869565,
+    "semantic_category": "faith_belief",
+    "root_arabic": "ظنن"
+  },
+  {
+    "root": "skn",
+    "total_frequency": 69,
+    "meccan_frequency": 39,
+    "medinan_frequency": 30,
+    "meccan_ratio": 0.5652173913043478,
+    "medinan_ratio": 0.4347826086956521,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سكن"
+  },
+  {
+    "root": "hlk",
+    "total_frequency": 68,
+    "meccan_frequency": 57,
+    "medinan_frequency": 11,
+    "meccan_ratio": 0.8382352941176471,
+    "medinan_ratio": 0.1617647058823529,
+    "semantic_category": "uncategorized",
+    "root_arabic": "هلك"
+  },
+  {
+    "root": "wHd",
+    "total_frequency": 68,
+    "meccan_frequency": 49,
+    "medinan_frequency": 19,
+    "meccan_ratio": 0.7205882352941176,
+    "medinan_ratio": 0.2794117647058823,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "وحد"
+  },
+  {
+    "root": "ksb",
+    "total_frequency": 67,
+    "meccan_frequency": 38,
+    "medinan_frequency": 29,
+    "meccan_ratio": 0.5671641791044776,
+    "medinan_ratio": 0.4328358208955223,
+    "semantic_category": "commerce_economics",
+    "root_arabic": "كسب"
+  },
+  {
+    "root": "bEv",
+    "total_frequency": 67,
+    "meccan_frequency": 49,
+    "medinan_frequency": 18,
+    "meccan_ratio": 0.7313432835820896,
+    "medinan_ratio": 0.2686567164179104,
+    "semantic_category": "uncategorized",
+    "root_arabic": "بعث"
+  },
+  {
+    "root": "jrm",
+    "total_frequency": 66,
+    "meccan_frequency": 60,
+    "medinan_frequency": 6,
+    "meccan_ratio": 0.9090909090909092,
+    "medinan_ratio": 0.0909090909090909,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جرم"
+  },
+  {
+    "root": "wfy",
+    "total_frequency": 66,
+    "meccan_frequency": 35,
+    "medinan_frequency": 31,
+    "meccan_ratio": 0.5303030303030303,
+    "medinan_ratio": 0.4696969696969697,
+    "semantic_category": "uncategorized",
+    "root_arabic": "وفي"
+  },
+  {
+    "root": "Eyn",
+    "total_frequency": 65,
+    "meccan_frequency": 51,
+    "medinan_frequency": 14,
+    "meccan_ratio": 0.7846153846153846,
+    "medinan_ratio": 0.2153846153846154,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عين"
+  },
+  {
+    "root": "xsr",
+    "total_frequency": 65,
+    "meccan_frequency": 46,
+    "medinan_frequency": 19,
+    "meccan_ratio": 0.7076923076923077,
+    "medinan_ratio": 0.2923076923076923,
+    "semantic_category": "uncategorized",
+    "root_arabic": "خسر"
+  },
+  {
+    "root": "jry",
+    "total_frequency": 64,
+    "meccan_frequency": 31,
+    "medinan_frequency": 33,
+    "meccan_ratio": 0.484375,
+    "medinan_ratio": 0.515625,
+    "semantic_category": "uncategorized",
+    "root_arabic": "جري"
+  },
+  {
+    "root": "Hml",
+    "total_frequency": 64,
+    "meccan_frequency": 41,
+    "medinan_frequency": 23,
+    "meccan_ratio": 0.640625,
+    "medinan_ratio": 0.359375,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حمل"
+  },
+  {
+    "root": "tlw",
+    "total_frequency": 63,
+    "meccan_frequency": 36,
+    "medinan_frequency": 27,
+    "meccan_ratio": 0.5714285714285714,
+    "medinan_ratio": 0.4285714285714285,
+    "semantic_category": "books_revelation",
+    "root_arabic": "تلو"
+  },
+  {
+    "root": "Ewd",
+    "total_frequency": 63,
+    "meccan_frequency": 51,
+    "medinan_frequency": 12,
+    "meccan_ratio": 0.8095238095238095,
+    "medinan_ratio": 0.1904761904761904,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عود"
+  },
+  {
+    "root": "sHr",
+    "total_frequency": 63,
+    "meccan_frequency": 59,
+    "medinan_frequency": 4,
+    "meccan_ratio": 0.9365079365079364,
+    "medinan_ratio": 0.0634920634920634,
+    "semantic_category": "uncategorized",
+    "root_arabic": "سحر"
+  },
+  {
+    "root": "qDy",
+    "total_frequency": 63,
+    "meccan_frequency": 49,
+    "medinan_frequency": 14,
+    "meccan_ratio": 0.7777777777777778,
+    "medinan_ratio": 0.2222222222222222,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قضي"
+  },
+  {
+    "root": "mwh",
+    "total_frequency": 63,
+    "meccan_frequency": 48,
+    "medinan_frequency": 15,
+    "meccan_ratio": 0.7619047619047619,
+    "medinan_ratio": 0.238095238095238,
+    "semantic_category": "uncategorized",
+    "root_arabic": "موه"
+  },
+  {
+    "root": "Hmd",
+    "total_frequency": 63,
+    "meccan_frequency": 50,
+    "medinan_frequency": 13,
+    "meccan_ratio": 0.7936507936507936,
+    "medinan_ratio": 0.2063492063492063,
+    "semantic_category": "divine_attributes",
+    "root_arabic": "حمد"
+  },
+  {
+    "root": "*wq",
+    "total_frequency": 63,
+    "meccan_frequency": 48,
+    "medinan_frequency": 15,
+    "meccan_ratio": 0.7619047619047619,
+    "medinan_ratio": 0.238095238095238,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ذوق"
+  },
+  {
+    "root": "zyd",
+    "total_frequency": 61,
+    "meccan_frequency": 40,
+    "medinan_frequency": 21,
+    "meccan_ratio": 0.6557377049180327,
+    "medinan_ratio": 0.3442622950819672,
+    "semantic_category": "uncategorized",
+    "root_arabic": "زيد"
+  },
+  {
+    "root": "mss",
+    "total_frequency": 61,
+    "meccan_frequency": 43,
+    "medinan_frequency": 18,
+    "meccan_ratio": 0.7049180327868853,
+    "medinan_ratio": 0.2950819672131147,
+    "semantic_category": "uncategorized",
+    "root_arabic": "مسس"
+  },
+  {
+    "root": "gyb",
+    "total_frequency": 60,
+    "meccan_frequency": 42,
+    "medinan_frequency": 18,
+    "meccan_ratio": 0.7,
+    "medinan_ratio": 0.3,
+    "semantic_category": "uncategorized",
+    "root_arabic": "غيب"
+  },
+  {
+    "root": "fry",
+    "total_frequency": 60,
+    "meccan_frequency": 53,
+    "medinan_frequency": 7,
+    "meccan_ratio": 0.8833333333333333,
+    "medinan_ratio": 0.1166666666666666,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فري"
+  },
+  {
+    "root": "ftn",
+    "total_frequency": 60,
+    "meccan_frequency": 34,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.5666666666666667,
+    "medinan_ratio": 0.4333333333333333,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فتن"
+  },
+  {
+    "root": "zkw",
+    "total_frequency": 59,
+    "meccan_frequency": 25,
+    "medinan_frequency": 34,
+    "meccan_ratio": 0.423728813559322,
+    "medinan_ratio": 0.576271186440678,
+    "semantic_category": "worship_ritual",
+    "root_arabic": "زكو"
+  },
+  {
+    "root": "nsw",
+    "total_frequency": 59,
+    "meccan_frequency": 9,
+    "medinan_frequency": 50,
+    "meccan_ratio": 0.1525423728813559,
+    "medinan_ratio": 0.847457627118644,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نسو"
+  },
+  {
+    "root": "rdd",
+    "total_frequency": 59,
+    "meccan_frequency": 35,
+    "medinan_frequency": 24,
+    "meccan_ratio": 0.5932203389830508,
+    "medinan_ratio": 0.4067796610169492,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ردد"
+  },
+  {
+    "root": "Zhr",
+    "total_frequency": 59,
+    "meccan_frequency": 33,
+    "medinan_frequency": 26,
+    "meccan_ratio": 0.559322033898305,
+    "medinan_ratio": 0.4406779661016949,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ظهر"
+  },
+  {
+    "root": "Drb",
+    "total_frequency": 58,
+    "meccan_frequency": 30,
+    "medinan_frequency": 28,
+    "meccan_ratio": 0.5172413793103449,
+    "medinan_ratio": 0.4827586206896552,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ضرب"
+  },
+  {
+    "root": "Edd",
+    "total_frequency": 57,
+    "meccan_frequency": 21,
+    "medinan_frequency": 36,
+    "meccan_ratio": 0.3684210526315789,
+    "medinan_ratio": 0.631578947368421,
+    "semantic_category": "uncategorized",
+    "root_arabic": "عدد"
+  },
+  {
+    "root": "qry",
+    "total_frequency": 57,
+    "meccan_frequency": 47,
+    "medinan_frequency": 10,
+    "meccan_ratio": 0.8245614035087719,
+    "medinan_ratio": 0.175438596491228,
+    "semantic_category": "uncategorized",
+    "root_arabic": "قري"
+  },
+  {
+    "root": "rwH",
+    "total_frequency": 57,
+    "meccan_frequency": 45,
+    "medinan_frequency": 12,
+    "meccan_ratio": 0.7894736842105263,
+    "medinan_ratio": 0.2105263157894736,
+    "semantic_category": "uncategorized",
+    "root_arabic": "روح"
+  },
+  {
+    "root": "*hb",
+    "total_frequency": 56,
+    "meccan_frequency": 36,
+    "medinan_frequency": 20,
+    "meccan_ratio": 0.6428571428571429,
+    "medinan_ratio": 0.3571428571428571,
+    "semantic_category": "movement_direction",
+    "root_arabic": "ذهب"
+  },
+  {
+    "root": "nhy",
+    "total_frequency": 56,
+    "meccan_frequency": 28,
+    "medinan_frequency": 28,
+    "meccan_ratio": 0.5,
+    "medinan_ratio": 0.5,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نهي"
+  },
+  {
+    "root": "Ajl",
+    "total_frequency": 56,
+    "meccan_frequency": 39,
+    "medinan_frequency": 17,
+    "meccan_ratio": 0.6964285714285714,
+    "medinan_ratio": 0.3035714285714285,
+    "semantic_category": "uncategorized",
+    "root_arabic": "اجل"
+  },
+  {
+    "root": "dwr",
+    "total_frequency": 55,
+    "meccan_frequency": 28,
+    "medinan_frequency": 27,
+    "meccan_ratio": 0.509090909090909,
+    "medinan_ratio": 0.4909090909090909,
+    "semantic_category": "uncategorized",
+    "root_arabic": "دور"
+  },
+  {
+    "root": "fsq",
+    "total_frequency": 54,
+    "meccan_frequency": 20,
+    "medinan_frequency": 34,
+    "meccan_ratio": 0.3703703703703703,
+    "medinan_ratio": 0.6296296296296297,
+    "semantic_category": "uncategorized",
+    "root_arabic": "فسق"
+  },
+  {
+    "root": "ndw",
+    "total_frequency": 53,
+    "meccan_frequency": 45,
+    "medinan_frequency": 8,
+    "meccan_ratio": 0.8490566037735849,
+    "medinan_ratio": 0.1509433962264151,
+    "semantic_category": "communication",
+    "root_arabic": "ندو"
+  },
+  {
+    "root": "DEf",
+    "total_frequency": 52,
+    "meccan_frequency": 25,
+    "medinan_frequency": 27,
+    "meccan_ratio": 0.4807692307692308,
+    "medinan_ratio": 0.5192307692307693,
+    "semantic_category": "uncategorized",
+    "root_arabic": "ضعف"
+  },
+  {
+    "root": "xbr",
+    "total_frequency": 52,
+    "meccan_frequency": 24,
+    "medinan_frequency": 28,
+    "meccan_ratio": 0.4615384615384615,
+    "medinan_ratio": 0.5384615384615384,
+    "semantic_category": "communication",
+    "root_arabic": "خبر"
+  },
+  {
+    "root": "tHt",
+    "total_frequency": 51,
+    "meccan_frequency": 20,
+    "medinan_frequency": 31,
+    "meccan_ratio": 0.392156862745098,
+    "medinan_ratio": 0.6078431372549019,
+    "semantic_category": "uncategorized",
+    "root_arabic": "تحت"
+  },
+  {
+    "root": "Hll",
+    "total_frequency": 51,
+    "meccan_frequency": 13,
+    "medinan_frequency": 38,
+    "meccan_ratio": 0.2549019607843137,
+    "medinan_ratio": 0.7450980392156863,
+    "semantic_category": "uncategorized",
+    "root_arabic": "حلل"
+  },
+  {
+    "root": "nfE",
+    "total_frequency": 50,
+    "meccan_frequency": 32,
+    "medinan_frequency": 18,
+    "meccan_ratio": 0.64,
+    "medinan_ratio": 0.36,
+    "semantic_category": "uncategorized",
+    "root_arabic": "نفع"
+  },
+  {
+    "root": "fsd",
+    "total_frequency": 50,
+    "meccan_frequency": 33,
+    "medinan_frequency": 17,
+    "meccan_ratio": 0.66,
+    "medinan_ratio": 0.34,
+    "semantic_category": "social_justice",
+    "root_arabic": "فسد"
+  },
+  {
+    "root": "Tyb",
+    "total_frequency": 50,
+    "meccan_frequency": 21,
+    "medinan_frequency": 29,
+    "meccan_ratio": 0.42,
+    "medinan_ratio": 0.58,
+    "semantic_category": "uncategorized",
+    "root_arabic": "طيب"
+  }
+]
